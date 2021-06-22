@@ -14,7 +14,7 @@ class kicksys():
 
 
     Parameters
-    ----------
+    ------------
     specmat : 2D matrix of spectra with the shape as time x wavelength, necessary
     specmat_err : 2D matrix of spectra error (e.g. those derived from optimal extraction, will
     be used as a denominator in the expression sysrem minimizes.), necessary
